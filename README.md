@@ -1,3 +1,8 @@
+---
+layout: default
+title: "NoBrand 618 促销活动，日本 VPS & 沪日 IX 专线一站式导航和评测"
+---
+
 # NoBrand 618 促销活动，日本 VPS & 沪日 IX 专线一站式导航和评测
 
 ## 一、618 活动信息
