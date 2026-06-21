@@ -31,6 +31,8 @@
 
 **KYC 实名认证已预开启，可以先注册账号并实名方便15日购买** ：https://cloud.nbdnet.com/kyc?ref=nexyron
 
+**补货监控频道**：https://t.me/s/nobrandmonitor
+
 ---
 
 ### 1.1 日本 VPS 价格
